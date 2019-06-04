@@ -1,0 +1,5 @@
+﻿localType,localXpath
+id,com.douban.frodo:id/left
+id,com.douban.frodo:id/input_user_name
+id,com.douban.frodo:id/input_password
+id,com.douban.frodo:id/sign_in_douban
