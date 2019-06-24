@@ -200,8 +200,8 @@ function showOutput(id, name) {
 --></script>
 <div class='heading'>
 <h1>测试报告</h1>
-<p class='attribute'><strong>Start Time:</strong> 2019-04-19 20:27:59</p>
-<p class='attribute'><strong>Duration:</strong> 0:00:34.319593</p>
+<p class='attribute'><strong>Start Time:</strong> 2019-06-23 09:05:08</p>
+<p class='attribute'><strong>Duration:</strong> 0:00:02.942943</p>
 <p class='attribute'><strong>Status:</strong> Error 1</p>
 
 <p class='description'>豆瓣项目</p>
@@ -242,7 +242,7 @@ function showOutput(id, name) {
 </tr>
 
 <tr class='errorClass'>
-    <td>loginPage.login</td>
+    <td>unittest.loader._FailedTest</td>
     <td>1</td>
     <td>0</td>
     <td>0</td>
@@ -251,7 +251,7 @@ function showOutput(id, name) {
 </tr>
 
 <tr id='ft1.1' class='none'>
-    <td class='errorCase'><div class='testcase'>test_openLogin</div></td>
+    <td class='errorCase'><div class='testcase'>loginPage</div></td>
     <td colspan='5' align='center'>
     <!--css div popup start-->
     <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.1')" >
@@ -263,23 +263,15 @@ function showOutput(id, name) {
         </div>
         <pre>
         
-ft1.1: setUp...........
-startCase........
-tearDown.......
+ft1.1: ImportError: Failed to import test module: loginPage
 Traceback (most recent call last):
-  File "D:\pyCharm-workspace\doubanUI\com\wu\page\loginPage.py", line 29, in tearDown
-    self.driver.close()
-  File "D:\AppData\Local\Programs\Python\Python37-32\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 688, in close
-    self.execute(Command.CLOSE)
-  File "D:\AppData\Local\Programs\Python\Python37-32\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
-    self.error_handler.check_response(response)
-  File "D:\AppData\Local\Programs\Python\Python37-32\lib\site-packages\appium\webdriver\errorhandler.py", line 29, in check_response
-    raise wde
-  File "D:\AppData\Local\Programs\Python\Python37-32\lib\site-packages\appium\webdriver\errorhandler.py", line 24, in check_response
-    super(MobileErrorHandler, self).check_response(response)
-  File "D:\AppData\Local\Programs\Python\Python37-32\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
-    raise exception_class(message, screen, stacktrace)
-selenium.common.exceptions.WebDriverException: Message: Method has not yet been implemented
+  File "D:\AppData\Local\Programs\Python\Python37-32\lib\unittest\loader.py", line 434, in _find_test_path
+    module = self._get_module_from_name(name)
+  File "D:\AppData\Local\Programs\Python\Python37-32\lib\unittest\loader.py", line 375, in _get_module_from_name
+    __import__(name)
+  File "D:\pyCharm-workspace\doubanUI\page\loginPage.py", line 5, in &lt;module&gt;
+    from units.getElement import waitObject
+ModuleNotFoundError: No module named 'units'
 
 
 

@@ -11,46 +11,43 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/wu/page/loginPage.py">
+        <entry file="file://$PROJECT_DIR$/page/loginPage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/wu/units/readFileData.py">
+        <entry file="file://$PROJECT_DIR$/units/readFileData.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="27">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/wu/units/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/units/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="417">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://D:/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/requests/api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
+            <state relative-caret-position="1701">
               <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/wu/units/getElement.py">
+        <entry file="file://$PROJECT_DIR$/units/getElement.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="27">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
@@ -62,10 +59,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/wu/main/caseMain.py">
+        <entry file="file://$PROJECT_DIR$/main/caseMain.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+            <state relative-caret-position="162">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,10 +98,12 @@
         <option value="$PROJECT_DIR$/com/wu/main/caseMain.py" />
         <option value="$PROJECT_DIR$/com/wu/units/readFileData.py" />
         <option value="$PROJECT_DIR$/com/wu/units/test.py" />
+        <option value="$PROJECT_DIR$/page/loginPage.py" />
+        <option value="$PROJECT_DIR$/units/test.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -112,7 +114,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,36 +124,37 @@
             <path>
               <item name="doubanUI" type="b2602c69:ProjectViewProjectNode" />
               <item name="doubanUI" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="doubanUI" type="b2602c69:ProjectViewProjectNode" />
               <item name="doubanUI" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="wu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="doubanUI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="doubanUI" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="wu" type="462c0819:PsiDirectoryNode" />
               <item name="units" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doubanUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resource" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pyCharm-workspace\doubanUI\resource" />
       <recent name="D:\pyCharm-workspace\doubanUI\com\wu\resource" />
       <recent name="D:\pyCharm-workspace\doubanUI\com\wu\testAPK" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pyCharm-workspace\doubanUI" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -167,17 +169,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.readFileData">
-    <configuration name="2019-04-19 17_49_29.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/doubanUI/com/wu/report/2019-04-19 17_49_29.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="2019-04-19 20_27_59.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/doubanUI/report/2019-04-19 20_27_59.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="2019-04-19 18_21_57.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/doubanUI/com/wu/report/2019-04-19 18_21_57.html" useBuiltInWebServerPort="true">
+    <configuration name="2019-06-07 18_06_31.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/doubanUI/report/2019-06-07 18_06_31.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="2019-04-19 20_27_59.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/doubanUI/com/wu/report/2019-04-19 20_27_59.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="caseMain" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="caseMain (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="doubanUI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -185,12 +184,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/wu/main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/wu/main/caseMain.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/caseMain.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,13 +220,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="doubanUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/units" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/units/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="JavaScript Debug.2019-04-19 20_27_59.html (1)" />
+        <item itemvalue="JavaScript Debug.2019-06-07 18_06_31.html" />
+        <item itemvalue="Python.caseMain (1)" />
         <item itemvalue="Python.readFileData" />
-        <item itemvalue="Python.caseMain" />
-        <item itemvalue="JavaScript Debug.2019-04-19 20_27_59.html" />
-        <item itemvalue="JavaScript Debug.2019-04-19 18_21_57.html" />
-        <item itemvalue="JavaScript Debug.2019-04-19 17_49_29.html" />
       </list>
     </recent_temporary>
   </component>
@@ -249,6 +270,9 @@
       <workItem from="1556245466969" duration="3924000" />
       <workItem from="1556500380437" duration="1351000" />
       <workItem from="1557196063439" duration="1113000" />
+      <workItem from="1559828359280" duration="720000" />
+      <workItem from="1559901915625" duration="303000" />
+      <workItem from="1560219081065" duration="4756000" />
     </task>
     <servers />
   </component>
@@ -285,18 +309,17 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41471000" />
+    <option name="totallyTimeSpent" value="47250000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1997319" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1689008" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.18387553" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.26308346" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -321,6 +344,8 @@
     <SUITE FILE_PATH="coverage/doubanUI$readFileData.coverage" NAME="readFileData Coverage Results" MODIFIED="1557196259777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/wu/units" />
     <SUITE FILE_PATH="coverage/doubanUI$Twisted_Trial_in_loginPage_py.coverage" NAME="Twisted Trial in loginPage.py Coverage Results" MODIFIED="1555667278823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/wu/page" />
     <SUITE FILE_PATH="coverage/doubanUI$caseMain.coverage" NAME="caseMain Coverage Results" MODIFIED="1555676991204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/wu/main" />
+    <SUITE FILE_PATH="coverage/doubanUI$caseMain__1_.coverage" NAME="caseMain (1) Coverage Results" MODIFIED="1559901989848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/doubanUI$test.coverage" NAME="test Coverage Results" MODIFIED="1560222000937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/units" />
     <SUITE FILE_PATH="coverage/doubanUI$Twisted_Trial_for_loginPage_login_test_openLogin.coverage" NAME="Twisted Trial for loginPage.login.test_openLogin Coverage Results" MODIFIED="1555581516999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/wu/page" />
   </component>
   <component name="editorHistoryManager">
@@ -372,25 +397,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/wu/resource/loginData.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/resource/loginData.csv">
       <provider editor-type-id="text-editor">
         <state>
           <caret column="8" selection-end-column="8" />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/wu/resource/loginXpath.csv">
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/loginXpath.csv">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" column="26" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="27" />
         </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
       <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
@@ -401,7 +426,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/wu/units/getElement.py">
+    <entry file="file://$PROJECT_DIR$/page/loginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/units/readFileData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1701">
+          <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/units/getElement.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
@@ -411,10 +457,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/wu/main/caseMain.py">
+    <entry file="file://$PROJECT_DIR$/main/caseMain.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        <state relative-caret-position="162">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -425,34 +474,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/wu/page/loginPage.py">
+    <entry file="file://D:/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/PIL/Image.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="157">
+          <caret line="561" column="8" selection-start-line="561" selection-start-column="8" selection-end-line="561" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/wu/units/readFileData.py">
+    <entry file="file://$PROJECT_DIR$/units/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/wu/units/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/requests/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
+        <state relative-caret-position="417">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>

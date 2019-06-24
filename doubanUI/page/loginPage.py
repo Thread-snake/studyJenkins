@@ -1,10 +1,9 @@
 import unittest
 import os
-import time
 
 from appium import webdriver
-from com.wu.units.getElement import waitObject
-from com.wu.units.readFileData import fileData
+from units.getElement import waitObject
+from units.readFileData import fileData
 
 PATH = lambda p: os.path.abspath(os.path.join(os.path.dirname(__file__), p))
 
@@ -12,7 +11,6 @@ PATH = lambda p: os.path.abspath(os.path.join(os.path.dirname(__file__), p))
 class login(unittest.TestCase, fileData):
 
     def setUp(self):
-        print("setUp...........")
         desired_caps = {
             # "app":PATH("../testAPK/com.douban.frodo_6.13.1_155.apk"),#设置了appPackage和appActivity就不需要用此项
             'appPackage': 'com.douban.frodo',
@@ -30,7 +28,6 @@ class login(unittest.TestCase, fileData):
 
     def test_openLogin(self):
 
-        print("startCase........")
         #读取测试数据
         xpath = self.getData("../resource/loginXpath.csv")
         userData = self.getData("../resource/loginData.csv")
